@@ -1,0 +1,111 @@
+/* .body */
+/* { */
+    /* position: relative; */
+    /* overflow:scroll; */
+/* } */
+
+.headtag a{
+    position:sticky;
+    border:none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:black;
+    padding: 20px;
+    margin-right: 50px;
+    margin-left: 100px;
+    /* margin-top: 100px; */
+}
+
+.headtag a:hover
+{
+
+    color:rgb(85, 185, 185);
+    text-decoration: none;
+}
+.newuser a
+{
+    color: black;
+}
+.newuser a:hover
+{
+    color: rgb(51, 39, 39);
+
+}
+.CAbtn
+{
+    margin-top: 20px;
+    margin-left:70px;
+    margin-bottom:50px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color:rgba(4, 4, 4);
+    border: 1px solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.CAbtn:hover{
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255);
+}
+.CAbtn1
+{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom:50px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color:rgba(4, 4, 4);
+    border: 1px solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.CAbtn1:hover{
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255);
+}
+.headtag1 a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:white;
+    border: 1px,solid,black;
+    padding: 10px;
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.headtag1 a:hover
+{
+    text-decoration:none ;
+    color: rgb(40, 203, 122);
+}
+body{
+    background-size: cover;
+    image-resolution: 100px;
+    background-repeat: no-repeat;
+    overflow: scroll;
+    /* resize: both; */
+
+
+}
+
+.signp
+{
+    margin-left: 70px;
+    color: #000;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.footer
+{
+    margin-left: 20px;
+    margin-top: 100px;
+    color: white
+}
